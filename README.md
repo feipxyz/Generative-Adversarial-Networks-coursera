@@ -62,7 +62,7 @@
 |[博客: 机器学习中的偏见](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) | |
 |[博客: Fairness Definitions Explained](https://fairware.cs.umass.edu/papers/Verma.pdf) [Machine Learning Glossary: Fairness](https://developers.google.com/machine-learning/glossary/fairness)| 公平的定义 |
 |[论文: A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/abs/1908.09635)| |
-|[博客: Does Object Recognition Work for Everyone](https://arxiv.org/abs/1906.02659) [What a machine learning tool that turns Obama white can (and can't) tell us about AI bias](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias) | 如何发现现有材料（模型、数据集、框架等）中的偏见以及如何防止它 |
+|[博客: Does Object Recognition Work for Everyone](https://arxiv.org/abs/1906.02659) <br> [What a machine learning tool that turns Obama white can (and can't) tell us about AI bias](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias) | 如何发现现有材料（模型、数据集、框架等）中的偏见以及如何防止它 |
 |[编程作业: Bias](./Build_Better_Generative_Adversarial_Networks/week2/C2W2_Assignment.ipynb) | |
 |[编程实验: GAN Debiasing](https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C2W2_GAN_Debiasing_(Optional).ipynb) |了解通过潜在空间去偏进行公平属性分类, [Fair Attribute Classification through Latent Space De-biasing](https://princetonvisualai.github.io/gan-debiasing/)|
 |[NeRF: Neural Radiance Fields](https://colab.research.google.com/drive/18DladhUz7_U8iBkkQxMBk2f7C2NAvPCC?usp=sharing) |学习如何使用神经辐射场仅使用几个输入视图生成复杂 3D 场景的新视图，最初由 NeRF 提出：[Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) (Mildenhall et al. 2020 ）。尽管 2D GAN 在高分辨率图像合成方面取得了成功，但 NeRF 已迅速成为实现高分辨率 3D 感知 GAN 的流行技术。 |
