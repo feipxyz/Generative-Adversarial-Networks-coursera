@@ -53,7 +53,7 @@
 |[博客: FID 和 IS 回顾之 How to measure GAN performance?](https://jonathan-hui.medium.com/gan-how-to-measure-gan-performance-64b988c47732) |FID和IS的回顾|
 
 
-### week2: GAN Disadvantages and Bias
+### Week 2: GAN Disadvantages and Bias
 | 内容 | 备注 |
 |-|-|
 |[教学ppt](./Build_Better_Generative_Adversarial_Networks/week2/C2_W2.pdf)| |
@@ -65,8 +65,9 @@
 |[博客: Does Object Recognition Work for Everyone](https://arxiv.org/abs/1906.02659) [What a machine learning tool that turns Obama white can (and can't) tell us about AI bias](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias) | 如何发现现有材料（模型、数据集、框架等）中的偏见以及如何防止它 |
 |[编程作业: Bias](./Build_Better_Generative_Adversarial_Networks/week2/C2W2_Assignment.ipynb) | |
 |[编程实验: GAN Debiasing](https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C2W2_GAN_Debiasing_(Optional).ipynb) |了解通过潜在空间去偏进行公平属性分类, [Fair Attribute Classification through Latent Space De-biasing](https://princetonvisualai.github.io/gan-debiasing/)|
+|[NeRF: Neural Radiance Fields](https://colab.research.google.com/drive/18DladhUz7_U8iBkkQxMBk2f7C2NAvPCC?usp=sharing) |学习如何使用神经辐射场仅使用几个输入视图生成复杂 3D 场景的新视图，最初由 NeRF 提出：[Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) (Mildenhall et al. 2020 ）。尽管 2D GAN 在高分辨率图像合成方面取得了成功，但 NeRF 已迅速成为实现高分辨率 3D 感知 GAN 的流行技术。 |
 
-### week3: StyleGAN and Advancements
+### Week 3: StyleGAN and Advancements
 
 | 内容 | 备注 |
 | - | - |
@@ -81,7 +82,7 @@
 
 ## Apply Generative Adversarial Networks
 
-### week 1: GANs for Data Augmentation and Privacy
+### Week 1: GANs for Data Augmentation and Privacy
 | 内容 | 备注 |
 | - | - |
 |[教学ppt](./Apply_Generative_Adversarial_Networks/week1/C3_W1.pdf) | |
@@ -92,7 +93,7 @@
 |[论文: De-identification](https://arxiv.org/abs/1902.04202)| 如何在保留基本面部属性以隐藏身份的同时对面部进行去识别（匿名化）的信息 |
 |[论文: GAN Fingerprints](https://arxiv.org/abs/1811.08180)| 担心区分真实图像和伪造的 GAN 生成图像? 看看 GAN 是如何留下指纹的!|
 
-### week 2: Image-to-Image Translation with Pix2Pix
+### Week 2: Image-to-Image Translation with Pix2Pix
 | 内容 | 备注 |
 | - | - |
 |[教学ppt](./Apply_Generative_Adversarial_Networks/week2/C3_W2.pdf)| |
@@ -105,7 +106,7 @@
 |[编程实验: GauGAN](https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C3W2_GauGAN_(Optional).ipynb) |在本笔记本中，您将了解 GauGAN，它从您实现和训练的语义标签映射中合成高分辨率图像。 GauGAN 基于[ Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)（Park 等人，2019 年）中提出的一种特殊的反归一化技术 |
 
 
-### week 3: Unpaired Translation with CycleGAN
+### Week 3: Unpaired Translation with CycleGAN
 | 内容 | 备注 |
 | - | - |
 |[教学ppt](./Apply_Generative_Adversarial_Networks/week3/C3_W3.pdf)| |
