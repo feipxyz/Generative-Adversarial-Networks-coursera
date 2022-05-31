@@ -73,7 +73,7 @@
 | - | - |
 |[教学ppt](./Build_Better_Generative_Adversarial_Networks/week3/C2_W3.pdf) | |
 |[编程作业: Components of StyleGAN](./Build_Better_Generative_Adversarial_Networks/week3/C2W3_Assignment.ipynb) | |
-|[编程实验: Components of StyleGAN2](./Build_Better_Generative_Adversarial_Networks/week3/) | |
+|[编程实验: Components of StyleGAN2](./Build_Better_Generative_Adversarial_Networks/week3/StyleGAN2.ipynb) | |
 |[编程实验: BigGAN](./Build_Better_Generative_Adversarial_Networks/week3/BigGAN.ipynb) | |
 |[论文: StyleGAN](https://arxiv.org/abs/1812.04948) | |
 |[博客: StyleGAN的另外一种解释](https://jonathan-hui.medium.com/gan-stylegan-stylegan2-479bdf256299) | |
